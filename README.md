@@ -15,7 +15,7 @@ A telecommunications company is facing customer churn. The objective of this pro
  
 IBM Telco Customer Churn Dataset
  
-## Key Findings (so far)
+## Key Findings
  
 - 26.5% of customers churned.
 - Customer service issues was the main churn reason.
