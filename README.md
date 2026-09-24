@@ -5,7 +5,7 @@
 A telecommunications company is facing customer churn. The objective of this project is to identify factors associated with customer churn and develop a predictive model to help retain at risk customers.
  
 ## Objectives
- 
+
 - Analyze customer churn patterns
 - Identify drivers of churn
 - Build a logistic regression model
@@ -16,7 +16,7 @@ A telecommunications company is facing customer churn. The objective of this pro
 IBM Telco Customer Churn Dataset
  
 ## Key Findings
- 
+
 - 26.5% of customers churned.
 - Customer service issues was the main churn reason.
 - Customers with shorter tenure were more likely to churn.
