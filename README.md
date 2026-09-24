@@ -1,7 +1,7 @@
 # Customer Churn Prediction
 
 ## Business Problem
- 
+
 A telecommunications company is facing customer churn. The objective of this project is to identify factors associated with customer churn and develop a predictive model to help retain at risk customers.
  
 ## Objectives
