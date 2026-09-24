@@ -39,7 +39,7 @@ Developed a Logistic Regression model using customer demographic, billing, and s
 The model can help identify customers at risk of leaving so retention efforts can be made accordingly. By prioritizing high risk customers, companies can improve retention rate, and reduce customer acquisition costs.
  
 ## Tools Used
- 
+
 - Python
 - Pandas
 - NumPy
